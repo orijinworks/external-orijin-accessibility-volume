@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accessibility Volume</string>
+    <string name="accessibility_service_description">Accessibility volume control service</string>
+</resources>
