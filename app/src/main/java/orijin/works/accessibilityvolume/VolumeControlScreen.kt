@@ -39,7 +39,7 @@ fun VolumeControlScreen(viewModel: VolumeViewModel) {
                     Log.d("VolumeControlScreen", "Slider adjusted volume to: $intVolume")
                 }
             },
-            valueRange = 0f..maxVolume.toFloat(),
+            valueRange = 1f..maxVolume.toFloat(),
             steps = maxVolume - 1,
             enabled = volume != 0
         )
