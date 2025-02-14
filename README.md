@@ -49,10 +49,10 @@ This project provides an **Accessibility Volume Controller** for Android devices
 
 ###  Key Components
 
-- `` → Handles Accessibility Volume adjustments.
-- `` → Manages volume updates and service status.
-- `` → Detects and manages service state.
-- `` → Compose UI for the volume slider.
+- Handles Accessibility Volume adjustments.
+- Manages volume updates and service status.
+- Detects and manages service state.
+- Compose UI for the volume slider.
 
 ## Troubleshooting
 
